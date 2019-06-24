@@ -50,5 +50,5 @@ emailToBob.item = "Baseball Merchandise"
 print emailToBob
 ```
 ```
-Dear Bob, thank you for your inquiry regarding Weaboo Merchandise, I regret to inform you that it's gone, sincerely Kyle Kimery.
+Dear Bob, thank you for your inquiry regarding Baseball Merchandise, I regret to inform you that it's gone, sincerely Kyle Kimery.
 ```
