@@ -1,7 +1,7 @@
 # Simplate
 Python Simple Object-Based String Templating
 
-##Usage
+## Usage
 From formatted strings create re-usable template objects and implementation objects. The Simplate class (Simplate.Simplate)
 allows you to dynamically create new Template classes with the string you initialize with, and (optionally) a title
 for the template which becomes the name of your new class. 
@@ -38,7 +38,7 @@ itself is a shared class variable amongst all instances of this template.
 An optional third argument when initializing a Simplate is "defaults", which is what the default values are for the instance
 variables of the template object. By default, defaults is an empty string.
 
-##Examples
+## Examples
 ```
 import Simplate
 emailString = "Dear {name}, thank you for your {item}, unfortunately its sold, sincerely {author}."
